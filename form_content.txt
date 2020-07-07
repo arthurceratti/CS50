@@ -19,3 +19,20 @@ QUALQUER UMA DESTAS PALAVRAS
 
 NENHUMA DESTAS PALAVRAS
 <input class="jfk-textinput" value="" id="t2dX1c" name="as_eq" type="text">
+
+
+
+
+"I'm Feeling Lucky"
+btnI parameter is for Google Instant Enabled and btn is for Google Instant Disabled.
+
+http://www.google.com/search?btnI&q=stackexchange
+
+
+https://www.google.com/search?sxsrf=ALeKk035Gcs5J2NXCrL2_eCfFTqhQKIy-w%3A1594155677083&
+source=hp&
+ei=neIEX8iHA__H5OUPmNmDsAI&iflsig=AINFCbYAAAAAXwTwrYXSAw49Bx4IumvYLBr9bU644Xqr&
+q=kartoffel&
+oq=kartofel&
+gs_lcp=CgZwc3ktYWIQARgAMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKOgQIIxAnOgUIABCxAzoCCAA6BAgAEEM6CAgAELEDEIMBUK8bWJIlYIsyaABwAHgAgAGCBYgBng-SAQkwLjQuMS41LTKYAQCgAQGqAQdnd3Mtd2l6&
+sclient=psy-ab
