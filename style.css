@@ -1,11 +1,19 @@
 /* Clear floats after the columns */
 .web_links {
-  line-height: 24px;
-  vertical-align: middle;
+  font-size: 13px;
   text-align: right;
   color: rgba(0, 0, 0, 0.87);
-  text-decoration: none;
   font-family: arial,sans-serif;
+  line-height: 24px;
+  outline: none;
+}
+
+.link_image {
+  margin: 15px;
+}
+
+a:link {
+  text-decoration: none;
 }
 
 .search_form {
