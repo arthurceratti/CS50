@@ -2,16 +2,18 @@
 
   /* Clear floats after the columns */
   .web_links{
-    line-height: 24px;
     font-size: 13px;
-    white-space: nowrap;
-    vertical-align: middle;
     text-align: right;
     color: rgba(0,0,0,0.87);
     font-family: arial,sans-serif;
     line-height: 24px;
     outline: none;
   }
+
+  .link_image{
+     margin: 15px;
+   }
+
     a:link {
     text-decoration: none;
   }
