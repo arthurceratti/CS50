@@ -3,11 +3,17 @@
   /* Clear floats after the columns */
   .web_links{
     line-height: 24px;
+    font-size: 13px;
+    white-space: nowrap;
     vertical-align: middle;
     text-align: right;
     color: rgba(0,0,0,0.87);
-    text-decoration: none;
     font-family: arial,sans-serif;
+    line-height: 24px;
+    outline: none;
+  }
+    a:link {
+    text-decoration: none;
   }
   
   .search_form{
